@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petracarrion
 - 👀 I’m interested in Python, Data, and Engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning dbt and Airflow
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me on https://www.linkedin.com/in/petra-carrion
 
